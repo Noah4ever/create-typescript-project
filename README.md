@@ -14,7 +14,7 @@ Before using the script, make sure you have the following prerequisites installe
 You may either download and run the script manually, or use the following cURL or Wget command:
 
 ```bash
-curl -O https://raw.githubusercontent.com/Noah4ever/create-typescript-project/main/create_typescript_project.py
+curl -sO https://raw.githubusercontent.com/Noah4ever/create-typescript-project/main/init.py && python3 init.py
 ```
 
 ```bash
