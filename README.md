@@ -6,6 +6,7 @@ Prerequisites
 Before using the script, make sure you have the following prerequisites installed on your system:
 
 - Python 3.x
+- jq
 - Node.js
 - npm (Node Package Manager)
 
